@@ -9,13 +9,13 @@ const SYMBOLS = [
   "💋", "💋", "💋",
   "🤗", "🤗",
   "😘", "😘",
-  "I love you",
-  "Forever yours",
+  "I love you cho much much muddu bodedi💋💋💋",
+  "Enna muddu bodedi😘😘😘",
   "My Chinchu",
   "💕", "💗", "💖", "💓",
-  "Always & forever",
+  "Enna kinni bodedi😘",
   "You're my everything",
-  "♥", "💋", "I love you",
+  "♥", "💋", "I love you cho much much bangaru😘😘😘",
 ];
 
 // deterministic per-drop properties — SSR-safe, no Math.random()
@@ -155,9 +155,9 @@ function CentreMessage() {
             className="mt-5 text-[#8b3a4a]/70 font-poppins max-w-sm leading-relaxed"
             style={{ fontFamily: "var(--font-poppins)", fontSize: "clamp(0.9rem,2.5vw,1.1rem)" }}
           >
-            Every heartbeat, every breath — they all belong to you.
+            Enna mokeda muddu💋💋💋, bodedi😘😘😘🫂🫂🫂 bangaru😘😘😘💋jojja😘😘💋
             <br />
-            Always &amp; forever. ♥
+            Enden tudu i want you to be little smile and comes to me and gatti pathondu sama undud deed cheepeda korodu😁😁
           </motion.p>
 
           {/* Back link */}

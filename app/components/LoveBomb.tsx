@@ -7,9 +7,9 @@ import { motion, AnimatePresence, useInView } from "framer-motion";
 const PARTICLES = [
   "♥", "♥", "♥", "♥", "♥", "♥",
   "💋", "💋", "💋",
-  "I love you", "I love you", "I love you",
+  "I love you cho much much muddu💋💋💋", "I love you cho much much bangaru💋💋", "I love you cho much much bodedi💋💋",
   "😘", "😍", "🌹",
-  "♥", "💋", "I love you",
+  "♥", "💋", "I love you enna kinni💋💋💋",
   "♥", "♥", "💋",
 ];
 
@@ -348,7 +348,7 @@ export default function LoveBomb() {
               className="text-[clamp(2.8rem,10vw,6rem)] text-[#8b3a4a] leading-tight font-dancing"
               style={{ fontFamily: "var(--font-dancing)" }}
             >
-              I love you,
+              I love you cho much much much much much much much much enna muddu bangaru bodedi😘😘😘🫂🫂🫂,
             </h2>
             <h2
               className="text-[clamp(3.5rem,12vw,7.5rem)] text-[#c97a8a] leading-tight font-dancing -mt-2"
@@ -363,9 +363,9 @@ export default function LoveBomb() {
               className="mt-4 text-[#8b3a4a]/65 text-sm sm:text-base max-w-xs mx-auto leading-relaxed font-poppins"
               style={{ fontFamily: "var(--font-poppins)" }}
             >
-              More than all the hearts in the universe.
+              Enna mokeda kinni muddu bodedi bangaru jojja😘😘😘
               <br />
-              Always &amp; forever. 💋
+              Always &amp; forever bangaru😘😘😘💋
             </motion.p>
 
             {/* ── link to the love rain page ── */}
@@ -381,7 +381,7 @@ export default function LoveBomb() {
                 boxShadow: "0 4px 24px rgba(139,58,74,0.35)",
               }}
             >
-              ♥ Open your surprise
+             ende click malpule eregonji surprise undu 👀😁😁
             </motion.a>
           </motion.div>
         )}

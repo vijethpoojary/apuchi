@@ -152,16 +152,15 @@ export const REASONS: Reason[] = [
 
 // ─── Love Letter ─────────────────────────────────────────────
 export const LOVE_LETTER = {
-  salutation: "My dearest Chinchu,",
-  body: `There are moments when I look at you and I'm completely overwhelmed — not by sadness, not by worry, but by a feeling so full and warm that no word has ever done it justice. It's gratitude, I think. Deep, quiet, overwhelming gratitude that somehow, in this vast and complicated world, your path curved into mine.
+  salutation: "Oo enna mokeda Bodedi😁,",
+  body: ` Ooo enna ponne 😁, Nalipuna navildath porlu ninna mone😁, 
+          Maratonji undu gonku 👀, monedonji undu aa gonkudanchina munku 👀😁,
+          kinni kinni moned pili pili kannulu 😁,
+          korodappa undudu deed naal cheepeda 😁
+          korparatha enk popi mommada 👀👀😁
+          barethe eeregad e kavana 👀😁korparatha jilebi ee dina 👀👀😁
 
-You didn't just walk into my life — you transformed it. You made me notice things I'd been rushing past. Slow mornings. The sound of rain. The particular kind of silence that only feels safe with the right person.
-
-I want you to know that every single day, I am grateful. For your laugh, for your patience, for the way you love — completely and without conditions. For the way you see me, truly see me, even on the days I struggle to see myself clearly.
-
-This isn't a perfect letter. It doesn't fully capture what I feel — nothing written ever could. But I hope it reminds you of one thing above all else: you are loved. Deeply, genuinely, endlessly loved. Not for what you do, but for exactly who you are.
-
-Forever yours,`,
+`,
   signature: "Your Apuchi 💕",
 };
 
