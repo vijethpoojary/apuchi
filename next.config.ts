@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  images: {
+    // Allow local /public images without size constraints in dev
+    unoptimized: process.env.NODE_ENV === "development",
+  },
 };
 
 export default nextConfig;
